@@ -1,0 +1,10 @@
+name: CrafterArcadian
+main: com.kodingkingdom.crafterarcadian.CrafterArcadianPlugin
+version: 0.0.1
+softdepend: [WorldEdit, PlotMe, CrafterCoordinator]
+commands:
+   obtainarcadia:
+   releasearcadia:
+   listarcadian:
+   addarcadian:
+   removearcadian:
